@@ -1,0 +1,2 @@
+body{-webkit-appearance:none;appearance:none;background-color:#181818;font-family:Arial,Helvetica,sans-serif}a,body{color:#fff}a{text-decoration:none}.card{display:flex;flex-direction:column;width:-webkit-min-content;width:min-content}.card img{border-radius:.5rem;-webkit-filter:brightness(.6);filter:brightness(.6);transition:.3s;width:15rem}.card p{border-bottom:2px solid transparent;border-image:linear-gradient(90deg,#8c00ff,#ff0080,rgba(56,2,155,0));border-image-slice:1;font-weight:700;margin:1rem 0 0;width:100%}
+/*# sourceMappingURL=main.2db4f00c.css.map*/

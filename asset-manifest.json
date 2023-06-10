@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Preview-Test-Deploy/static/css/main.2db4f00c.css",
+    "main.js": "/Preview-Test-Deploy/static/js/main.160cae3a.js",
+    "index.html": "/Preview-Test-Deploy/index.html",
+    "main.2db4f00c.css.map": "/Preview-Test-Deploy/static/css/main.2db4f00c.css.map",
+    "main.160cae3a.js.map": "/Preview-Test-Deploy/static/js/main.160cae3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db4f00c.css",
+    "static/js/main.160cae3a.js"
+  ]
+}
